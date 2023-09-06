@@ -17,3 +17,5 @@
 <img src='https://github-readme-stats-anuraghazra1.vercel.app/api?username=AlainaMarta&theme=dracula&show_icons=true'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlainaMarta&layout=compact&theme=dark#gh-dark-mode-only"/>'>
 <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+pessoal+Sinta-se+a+vontade+para+dar+follow+e+deixar+seu+code+review;Second+line+of+text)](https://git.io/typing-svg)
