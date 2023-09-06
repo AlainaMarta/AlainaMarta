@@ -18,4 +18,4 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlainaMarta&layout=compact&theme=dark#gh-dark-mode-only"/>'>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Life+is+better+if+you+are+coding!!!;center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Life+is+better+if+you+are+coding!!!;)](https://git.io/typing-svg)
