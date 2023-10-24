@@ -3,7 +3,8 @@
 ### essas são algumas das minhas redes<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaina-marta-ab15b01aa/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alainamarta/) 
 
-#### Sou estudante de Desenvolvimento Web na Trybe e iniciei minha jornada no mundo da programação em abril de 2023. Estou me dedicando ao aprendizado de criação de sites e aplicativos incríveis, explorando diversas tecnologias e linguagens de programação. É impressionante como a programação me permite construir algo do zero e ver minhas ideias ganharem vida. Reconheço que tenho muito a aprender, mas estou entusiasmada com as oportunidades que o futuro reserva como desenvolvedora web.
+#### Minha trajetória no mundo do desenvolvimento teve início em abril de 2023, quando me matriculei no curso da Trybe, que se destaca por seu enfoque especializado no desenvolvimento web full-stack. Desde então, tenho me dedicado incansavelmente ao aprimoramento não apenas de habilidades técnicas ligadas à área, mas também ao desenvolvimento contínuo de minhas competências interpessoais.
+
 <br>
 
 ## Algumas tecnologias que utilizo no meu dia
