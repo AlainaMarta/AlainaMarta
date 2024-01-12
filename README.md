@@ -3,7 +3,11 @@
 ### essas são algumas das minhas redes<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaina-marta-ab15b01aa/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alainamarta/) 
 
-#### Minha trajetória no mundo do desenvolvimento teve início em abril de 2023, quando me matriculei no curso da Trybe, que se destaca por seu enfoque especializado no desenvolvimento web full-stack. Desde então, tenho me dedicado incansavelmente ao aprimoramento não apenas de habilidades técnicas ligadas à área, mas também ao desenvolvimento contínuo de minhas competências interpessoais.
+#### Após obter minha graduação em Estética e Cosmetologia, embarquei em um período de profunda auto-reflexão, o qual me levou a compreender que meu anseio por conhecimento se estendia para áreas diversas. Foi nesse momento que redescobri minha fascinação por jogos e pela tecnologia, impulsionando minha decisão de migrar para esse campo dinâmico.
+
+Minha trajetória no mundo do desenvolvimento teve início em abril de 2023, quando me matriculei no curso da Trybe, que se destaca por seu enfoque especializado no desenvolvimento web full-stack. Desde então, tenho me dedicado incansavelmente ao aprimoramento não apenas de habilidades técnicas ligadas à área, mas também ao desenvolvimento contínuo de minhas competências interpessoais.
+
+A cada dia dedicado ao meu aprendizado, percebo a imensidão do campo da tecnologia e como ele proporciona oportunidades para explorar e aprimorar habilidades. Estabeleci como meta pessoal me tornar uma desenvolvedora full-stack, a fim de desfrutar, ao menos em parte, das infinitas possibilidades que essa área tem a oferecer.
 
 <br>
 
