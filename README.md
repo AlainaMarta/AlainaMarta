@@ -1,7 +1,7 @@
 
 ## Olá me chamo Alaina Marta 🩷 
 ### essas são algumas das minhas redes<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaina-marta-ab15b01aa/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alainamarta/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaina-marta-ab15b01aa/)
 
 #### Após obter minha graduação em Estética e Cosmetologia, embarquei em um período de profunda auto-reflexão, o qual me levou a compreender que meu anseio por conhecimento se estendia para áreas diversas. Foi nesse momento que redescobri minha fascinação por jogos e pela tecnologia, impulsionando minha decisão de migrar para esse campo dinâmico.
 
