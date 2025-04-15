@@ -13,6 +13,7 @@
 ## Vamos nos conectar! 👥
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaina-marta-ab15b01aa/)
 
+alainamarta@gmail.com
 
 ## Algumas tecnologias que utilizo nos projetos
 
