@@ -29,6 +29,11 @@ alainamarta@gmail.com
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+## 📌 Repositórios Destacados
+
+[![Trybetunes](https://github-readme-stats.vercel.app/api/pin/?username=AlainaMarta&repo=trybetunes)](https://github.com/AlainaMarta/trybetunes)
+
+
 <img src='https://github-readme-stats-anuraghazra1.vercel.app/api?username=AlainaMarta&theme=dracula&show_icons=true'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AlainaMarta&layout=compact&theme=dark#gh-dark-mode-only"/>'>
 <br>
