@@ -3,7 +3,7 @@
 
 ## Sobre mim 🙆🏻‍♀️🚀
 
-#### Após concluir minha graduação em Estética e Cosmetologia, entrei em um período profundo de auto-reflexão que me fez perceber que minha sede por conhecimento abrangia diversas áreas. Foi então que redescobri minha fascinação por jogos e tecnologia, o que impulsionou minha decisão de migrar para esse campo dinâmico.
+#### Após concluir minha graduação em Estética e Cosmetologia, entrei em um período de auto-reflexão que me fez perceber que minha sede por conhecimento abrangia diversas áreas. Foi então que redescobri minha fascinação por jogos e tecnologia, o que impulsionou minha decisão de migrar para esse campo dinâmico.
 
 #### Iniciei minha jornada no desenvolvimento em abril de 2023 ao me matricular no curso da Trybe, conhecido pelo seu foco especializado em desenvolvimento web full-stack. Desde então, tenho dedicado meu tempo e energia ao aprimoramento não apenas das habilidades técnicas necessárias, mas também ao desenvolvimento contínuo das minhas competências interpessoais.
 
